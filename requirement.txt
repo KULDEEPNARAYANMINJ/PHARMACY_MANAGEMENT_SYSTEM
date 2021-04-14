@@ -1,0 +1,4 @@
+operating system - windows/linux/MAC
+Ram - 1 GB
+HARD DISK - 512 GB
+Application - visual studio code / sublime text
